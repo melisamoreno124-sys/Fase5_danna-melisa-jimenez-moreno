@@ -1,16 +1,15 @@
-# =========================================================
-# UNIVERSIDAD NACIONAL ABIERTA Y A DISTANCIA - UNAD
-# FASE 5 - EVALUACION FINAL POA
-# ESTUDIANTE: DANNA MELISA JIMENEZ MORENO
-# PROGRAMA: INGENIERIA INDUSTRIAL
-# =========================================================
+# -------------------------
+# Nombre del estudiante: Danna Melisa Jimenez Moreno
+# Grupo: 213022_937
+# programa: Ingenieria Electronica
+# Codigo fuente: Autoria Propia
+# ------------------------
 
 print("╔══════════════════════════════════════════════════════════════╗")
 print("║              VIDEOTECA DIGITAL - UNAD                      ║")
 print("╠══════════════════════════════════════════════════════════════╣")
 print("║ Estudiante: Danna Melisa Jimenez Moreno                    ║")
 print("║ Programa : Ingenieria Industrial                           ║")
-print("║ Tema      : Matrices y Funciones en Python                 ║")
 print("╚══════════════════════════════════════════════════════════════╝")
 
 print("\nBienvenido al sistema de Videoteca Digital\n")
